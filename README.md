@@ -28,10 +28,5 @@ I am a Fullstack Web Developer and Computer Science student at BINUS University,
 ---
 
 ### 📡 Interlink
-* **Portfolio:** [YourPortfolio.com]
-* **LinkedIn:** [linkedin.com/in/yourprofile]
-* **Discord:** `@yourhandle`
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00b4d8&style=flat" alt="Views" />
-</div>
+* **Portfolio:** https://portfolio-sigma-ebon-59.vercel.app/
+* **LinkedIn:** www.linkedin.com/in/antoniosulistio
