@@ -35,11 +35,11 @@ I am a Fullstack Web Developer and Computer Science student at BINUS University,
 ### 📊 System Status
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TidyJohn&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Github Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TidyJohn&theme=tokyonight" alt="Github Streak" />
 </p>
 
 ---
