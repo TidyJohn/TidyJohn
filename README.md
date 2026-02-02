@@ -1,10 +1,5 @@
 # 🌌 System.out.println("Hello, Universe");
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00b4d8&height=300&section=header&text=ANTONIO%20SULISTIO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Architect%20|%20CS%20Scholar&descAlignY=51&descSize=20" width="100%" />
-</div>
-
----
 
 ### ⚡ Core Directives
 > **"Engineering solutions not just for today, but for the digital future."**
@@ -29,18 +24,6 @@ I am a Fullstack Web Developer and Computer Science student at BINUS University,
 * **Crypto Intelligence Dashboard:** Real-time analytics engine built with React, TypeScript, and WebSockets for live market tracking.
 * **AI Roleplay Engine:** Exploring the boundaries of LLMs (Gemini) to create interactive, dynamic narrative experiences.
 * **Thesis Research:** Analyzing the cognitive impact of LMS platforms on academic performance at BINUS.
-
----
-
-### 📊 System Status
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TidyJohn&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TidyJohn&theme=tokyonight" alt="Github Streak" />
-</p>
 
 ---
 
