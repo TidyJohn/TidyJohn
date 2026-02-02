@@ -11,10 +11,10 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:antoniosulistio2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/antoniosulistio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -24,8 +24,8 @@
 ### ⚡ What I'm Up To
 - 🔭 Working on a **Learning Management System (LMS)** & **Real-time Crypto Analytics**.
 - 🌱 Deep diving into **Linux Customization (Waybar)** and **Web Security**.
-- 🎮 Grinding in **Toram Online** when I'm not coding.
-- ⚡ Fun fact: I use **Arch** (btw).
+- 🎮 Grinding in **Where Winds Meet** when I'm not coding.
+- ⚡ Fun fact: I use **Arch** (btw) / Omarchy.
 
 ---
 
@@ -52,14 +52,14 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TidyJohn&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TidyJohn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TidyJohn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&bg_color=141321&color=a965ee&line=a965ee&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TidyJohn&bg_color=141321&color=a965ee&line=a965ee&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
