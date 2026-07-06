@@ -3,7 +3,7 @@
 
 ### ⚡ Core Directives
 > **"Engineering solutions not just for today, but for the digital future."**
-I am a Fullstack Web Developer and Computer Science student at BINUS University, specialized in building scalable architectures and intuitive digital experiences. Currently, I'm bridging the gap between enterprise LMS solutions and the cutting edge of AI/Crypto technology.
+I am a Fullstack Web Developer, specialized in building scalable architectures and intuitive digital experiences. Currently, I'm bridging the gap between enterprise LMS solutions and the cutting edge of AI/Crypto technology.
 
 ---
 
